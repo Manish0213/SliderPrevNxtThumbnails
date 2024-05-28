@@ -1,0 +1,12 @@
+.thumbnail {
+    width: 75px;
+    height: 75px;
+    border-radius: 5px;
+    background-color: black;
+    position: absolute;
+  }
+  
+  .thumbnail img {
+    width: 100%;
+    height: 100%;
+  }
